@@ -1,0 +1,40 @@
+[02-Dec-2014 21:34:18 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:34:41 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:38:58 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:00 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:09 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:11 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:12 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:15 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:40 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:39:41 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:40:07 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:40:23 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:41:28 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 21:44:07 UTC] PHP Fatal error:  Composer dependencies have not been set up yet, run 'php ../composer.phar install' from the phpBB directory to do so. in /home/edenlol/public_html/forum/includes/startup.php on line 166
+[02-Dec-2014 21:44:16 UTC] PHP Fatal error:  Composer dependencies have not been set up yet, run 'php ../composer.phar install' from the phpBB directory to do so. in /home/edenlol/public_html/forum/includes/startup.php on line 166
+[02-Dec-2014 22:57:20 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 22:57:23 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 22:57:24 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 22:57:25 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 22:57:27 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:06:20 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:06:29 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:06:47 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:06:49 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:08 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:09 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:27 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:29 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:31 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:36 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:07:36 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/forum/index.php on line 27
+[02-Dec-2014 23:29:15 UTC] PHP Fatal error:  Composer dependencies have not been set up yet, run 'php ../composer.phar install' from the phpBB directory to do so. in /home/edenlol/public_html/wow/forum/includes/startup.php on line 166
+[02-Dec-2014 23:29:20 UTC] PHP Fatal error:  Composer dependencies have not been set up yet, run 'php ../composer.phar install' from the phpBB directory to do so. in /home/edenlol/public_html/wow/forum/includes/startup.php on line 166
+[02-Dec-2014 23:38:49 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/wow/forum/index.php on line 27
+[02-Dec-2014 23:39:08 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/wow/forum/index.php on line 27
+[02-Dec-2014 23:39:08 UTC] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home/edenlol/public_html/wow/forum/index.php on line 27
+[02-Dec-2014 23:47:10 UTC] PHP Fatal error:  Call to undefined function include_path() in /home/edenlol/public_html/wow/forum.php on line 29
+[02-Dec-2014 23:47:13 UTC] PHP Fatal error:  Call to undefined function include_path() in /home/edenlol/public_html/wow/forum.php on line 29
+[02-Dec-2014 23:47:14 UTC] PHP Fatal error:  Call to undefined function include_path() in /home/edenlol/public_html/wow/forum.php on line 29
+[02-Dec-2014 23:47:30 UTC] PHP Fatal error:  Call to undefined function include_path() in /home/edenlol/public_html/wow/forum.php on line 29

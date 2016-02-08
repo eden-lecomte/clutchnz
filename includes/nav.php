@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><h1>CG</h1></a>
+      <a class="navbar-brand" href="http://clutchgaming.co.nz/"><h1>CG</h1></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -24,8 +24,8 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="http://twitch.tv/clutchnz" target="_blank"><i class="fa fa-twitch fa-2x"></i></a></li>
         <li><a href="https://www.facebook.com/clutchgamingnz/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
-        <li><a href="http://youtube.com/edenlol" target="_blank"><i class="fa fa-youtube fa-2x"></i></a></li>
-              </ul>
+        <li><a href="http://youtube.com/edenlol" target="_blank"><i class="fa fa-youtube fa-2x"></i></a></li> 
+    </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav> <!-- end #nav -->

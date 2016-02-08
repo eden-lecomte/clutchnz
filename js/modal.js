@@ -34,7 +34,7 @@ $('.modal_window').each(function(){
   
         //use the function to close it  
         close_modal();  
-  
+        
     });  
   
 });  

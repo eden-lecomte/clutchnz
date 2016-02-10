@@ -1,4 +1,4 @@
-<div class="black-wrapper">
+
 	<div id="twitch" class="container">
         <div class="jumboheading"><h1>Watch</h1></div>
 		<div class="row">
@@ -56,4 +56,4 @@
             
         </div>
     </div>
-</div>
+

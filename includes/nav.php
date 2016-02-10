@@ -16,15 +16,18 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
             <li><a href="index.php">Home</a></li>
-            <li><a href="#bio">Bio</a></li>
             <li><a href="#twitch">Watch</a></li>
-            <li><a href="#schedule">Schedule</a></li>
+            <li><a href="#schedule">Tournament & Stream schedule</a></li>
+            <li><a href="#bio">Bio</a></li>
+
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
+        <li><a href="#contact">Contact us</a></li>
         <li><a href="http://twitch.tv/clutchnz" target="_blank"><i class="fa fa-twitch fa-2x"></i></a></li>
+        <li><a href="http://youtube.com/edenlol" target="_blank"><i class="fa fa-youtube fa-2x"></i></a></li>
         <li><a href="https://www.facebook.com/clutchgamingnz/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
-        <li><a href="http://youtube.com/edenlol" target="_blank"><i class="fa fa-youtube fa-2x"></i></a></li> 
+        <li><a href="https://www.twitter.com/clutchgamingnz" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>         
     </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

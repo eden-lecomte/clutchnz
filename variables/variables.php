@@ -2,6 +2,7 @@
 
 $heading='';
 
-$footer='Copyright &copy; 2015 Clutch Gaming NZ';
+$footer='Website design by <a href="https://www.linkedin.com/in/edenlol">Eden Le Comte</a>';
+
 
  ?>

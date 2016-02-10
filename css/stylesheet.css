@@ -8,7 +8,7 @@ h1, h2, h3, h4 {
 }
 
 @font-face {
- font-family: razer_regular;
+ font-family: razer;
  src: url(../fonts/razer_regular_font.ttf);
 }
 
@@ -73,29 +73,6 @@ margin:0;
   padding: 15px;
 }
 
-#code.jumbotron {
-  background-image:url('../img/colouredwall.png');
-  height: 350px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #FFF
-}
-
-#icons.jumbotron {
-  background-image:url('../img/leaping.jpg');
-  height: 350px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #FFF
-}
-
-#banners.jumbotron {
-  background-image:url('../img/parkour.png');
-  height: 350px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #FFF
-}
 
 
 #carousel-banners {
@@ -150,21 +127,17 @@ margin:0;
   text-align: center;
   margin-top: 0px;
   padding: 15px;
+  color: #101010;
 }
-
-#bio .jumboheading  h1 {
-    color: #101010;
-}
-
-#schedule .jumboheading  h1 {
-    color: #101010;
-}
-
 
 .black-wrapper {
     background-color: #101010;
     width: 100% !important;
     padding: 20px;
+}
+
+.black-wrapper h1 {
+    color: #FFF;
 }
 
 #footer {
@@ -211,7 +184,7 @@ margin:0;
     color:black;  
     z-index: 9900;
     width: auto;
-    margin: -360px 0 0 -640px;
+    /*margin: -360px 0 0 -640px;*/
     
 }  
 
@@ -221,4 +194,57 @@ margin:0;
 
 #twitch .thumbnail {
     text-align: center;
+}
+
+#contact .thumbnail h2 {
+    text-align: center;
+}
+
+#contact .thumbnail {
+    min-height: 300px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+#contact .thumbnail a {
+    cursor: pointer;
+        box-shadow: 4px 4px 5px 10px rgba(16, 16, 16, 0.75);
+        -moz-box-shadow: 4px 4px 5px 10px rgba(16, 16, 16, 0.75);
+        -webkit-box-shadow: 4px 4px 5px 10px rgba(16, 16, 16, 0.75);    
+
+}
+
+#contact .thumbnail a:hover {
+    text-decoration: none;    
+}
+
+#sidebar {
+    float: right;
+    width: 200px;
+    
+}
+
+#email {
+    background-image: url('../img/tpscroll.jpg');
+    background-size: cover;    
+    background-position: center;
+}
+
+#register {
+    background-image: url('../img/audience.jpg');
+    background-size: cover;    
+}
+
+#request {
+    background-image: url('../img/cast.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#contactform {
+    width: 800px;
+    height: 780px;
+    margin: -350px 0 0 -400px;
+    padding: 20px;
+    overflow: hidden;
 }
